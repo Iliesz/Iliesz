@@ -15,7 +15,7 @@ I am a graduate of a master's degree in system and network administration in Jun
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Iliesz).
 - 📫 &nbsp; How to reach me: zinoun.ilies.1@gmail.com.
-- 📝 &nbsp; Checkout my [https://github.com/Iliesz/Iliesz/blob/master/CV_Ilies_Zinoun.pdf].
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Iliesz/Iliesz/blob/master/CV_Ilies_Zinoun.pdf).
 
 ### My Absolute Favorites:
 
